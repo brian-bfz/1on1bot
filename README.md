@@ -1,4 +1,6 @@
 # 1on1 Bot
+**This repo is outdated. See https://github.com/selvaradov/1on1bot**
+
 A discord bot that pairs up users within a server for weekly 1-1 calls. 
 Used by Atlas Fellows and SPARC2024 attendees. 
 ## Installation
